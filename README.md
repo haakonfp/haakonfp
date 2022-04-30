@@ -6,7 +6,7 @@
 ---
 
 * C#, Python, C++, MatLab, Lua
-* .NET, WPF, UWP, WinUI 3.0
+* .NET, WPF, UWP, MAUI
 * Blazor, Svelte & SvelteKit
 * HTML, CSS, JavaScript, TypeScript
 
