@@ -1,11 +1,11 @@
 # Hi, I'm Haakon 👋
 
 * Co-Founder at [Osirion](https://osirion.company)
-* MSc. Industrial Economics at Norwegian University of Science and Technology
+* MSc. Industrial Economics at Norwegian University of Science and Technology (2017-2022)
 
 ---
 
-* C#, Python, C++, MatLab, Lua
+* C#, Python, C++, MatLab, Lua, Solidity
 * .NET, WPF, UWP, MAUI
 * Blazor, Svelte & SvelteKit
 * HTML, CSS, JavaScript, TypeScript
