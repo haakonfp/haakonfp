@@ -4,7 +4,13 @@
 
 ---
 
-* C#, Python
+I am currently building [Osirion](https://osirion.gg) - an AI coach for gamers.
+
+My current setup is Neovim, zsh and oh-my-zsh on WSL in Windows Terminal.
+
+I usually work with the following technologies:
+* C#, Python, TypeScript, Rust
+* Svelte, SvelteKit, Next.js
 * .NET, Blazor, MAUI
 * HTML, CSS, TailwindCSS
 
