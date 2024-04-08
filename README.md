@@ -9,12 +9,16 @@ Also building [compliance.sh](https://compliance.sh) - an AI / cybersecurity com
 
 My current setup is Neovim, zsh and oh-my-zsh on WSL in Windows Terminal.
 
-I usually work with the following technologies:
-* C#, Python, TypeScript, Rust
-* Svelte, SvelteKit, Next.js, Tauri
+I currently work with the following technologies:
+* TypeScript, Rust, Python
+* Svelte, SvelteKit, Tauri
 * HTML, CSS, TailwindCSS
-* .NET, Blazor, MAUI
 * gRPC, LLMs, ML/AI
+
+I have previously worked a lot with the following:
+* C#, C++, MatLab
+* .NET, Blazor, MAUI
+* Unity, Unreal Engine, AR/VR
 
 <!--
 [![Twitter](https://img.shields.io/twitter/follow/haakonfp?style=social)](https://twitter.com/haakonfp)
