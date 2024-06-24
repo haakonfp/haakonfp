@@ -5,7 +5,6 @@
 ---
 
 I am currently building [Osirion](https://osirion.gg) - an AI coach for gamers.
-Also building [compliance.sh](https://compliance.sh) - an AI / cybersecurity compliance platform.
 
 My current setup is Neovim, zsh and oh-my-zsh on WSL in Windows Terminal.
 
