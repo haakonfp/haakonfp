@@ -4,7 +4,7 @@
 
 ---
 
-I am currently building [Osirion](https://osirion.gg) - an AI coach for gamers.
+I am currently building [Osirion](https://osirion.gg) - an AI coach and data analytics platform for gamers.
 
 My current setup is Neovim, zsh and oh-my-zsh on WSL in Windows Terminal.
 
