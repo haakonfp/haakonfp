@@ -4,7 +4,7 @@
 
 ---
 
-I am currently building [Osirion](https://osirion.gg) - an AI coach and data analytics platform for gamers.
+I am currently building [Osirion](https://osirion.gg) - an AI coaching and data analytics platform for gamers.
 
 My current setup is Neovim, zsh and oh-my-zsh on WSL in Windows Terminal.
 
@@ -12,10 +12,11 @@ I currently work with the following technologies:
 * TypeScript, Rust, Python
 * Svelte, SvelteKit, Tauri
 * HTML, CSS, TailwindCSS
-* gRPC, LLMs, ML/AI
+* SQL w/ SQLite & Postgres
+* ML/AI, LLMs w/ RAG
 
 I have previously worked a lot with the following:
-* C#, C++, MatLab
+* C#, C++, MatLab, Go
 * .NET, Blazor, MAUI
 * Unity, Unreal Engine, AR/VR
 
